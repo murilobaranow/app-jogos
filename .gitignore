@@ -1,0 +1,41 @@
+# Dependências
+node_modules/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Banco de dados local
+*.sqlite
+*.sqlite3
+*.db
+
+# Cobertura de testes
+coverage/
+
+# Build
+dist/
+build/
+
+# Cache
+.cache/
+.npm/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.temp
